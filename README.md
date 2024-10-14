@@ -6,7 +6,7 @@
 
 I'm a passionate Computer Science student at the University of Illinois at Urbana-Champaign, with a keen interest in cybersecurity and AI. When I'm not coding, you can find me exploring the latest tech trends or working on exciting projects!
 
-### 🌟 Quick Highlights
+## 🌟 Quick Highlights
 
 - 🎓 Pursuing BS in Computer Science at UIUC
 - 🔒 Cybersecurity enthusiast (ITI Certificate in progress)

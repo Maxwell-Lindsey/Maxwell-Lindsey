@@ -56,6 +56,7 @@ I'm a passionate Computer Science student at the University of Illinois at Urban
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/maxwell-lindsey/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:maxwell.a.lindsey@gmail.com)
+[![UIUC Email](https://img.shields.io/badge/-UIUC%20Email-13294B?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNiAxNiI+PHRleHQgeD0iOCIgeT0iMTMiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiNGRjc0MDAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSJBcmlhbCIgZm9udC13ZWlnaHQ9ImJvbGQiPkk8L3RleHQ+PC9zdmc+)](mailto:mal13@illinois.edu)
 
 Feel free to explore my repositories and don't hesitate to reach out if you want to collaborate or just chat about tech!
 
